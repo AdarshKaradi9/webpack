@@ -1,0 +1,1 @@
+export const module2 = 'this is module2'
